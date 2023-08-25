@@ -1,5 +1,8 @@
 # 春雷 SpringThunder
-由中国马列毛主义者制作的国际共运专题期刊《春雷》发布啦！"Spring Thunder", a special issue of the International Communist Movement produced by Chinese Marxist-Leninist-Maoist, has been released!
+由中国马列毛主义者制作的国际共运专题期刊《春雷》发布啦！
+
+"Spring Thunder", a special issue of the International Communist Movement produced by Chinese Marxist-Leninist-Maoist, has been released!
+
 这是“马列毛主义和革命左翼”的刊物《春雷》的Github库，PDF文件已上传至上方代码区，每月初更新。点击上方“**View code**”即可查看和下载。
 
 This is a library for uploading the official publication of "Marxist-Leninist-Maoist and Revolutionary Left" "Spring Thunder", the PDF file has been uploaded to the code area above, click "View code" to view and download.
