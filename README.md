@@ -1,11 +1,10 @@
 # 春雷 SpringThunder
-由中国马列毛主义者制作的国际共运专题期刊**《春雷》**发布啦！
 
-"Spring Thunder", a special issue of the International Communist Movement produced by Chinese Marxist-Leninist-Maoist, has been released!
+## 中文介绍
 
-这是“**马列毛主义和革命左翼**”的刊物《春雷》的Github库，PDF文件已上传至上方代码区，每月初更新。点击上方“**View code**”即可查看和下载。
+由中国马列毛主义者制作的国际共运专题期刊 **《春雷》** 发布啦！
 
-This is a library for uploading the official publication of "Marxist-Leninist-Maoist and Revolutionary Left" "Spring Thunder", the PDF file has been uploaded to the code area above, click "View code" to view and download.
+这是“**马列毛主义和革命左翼**”的刊物《春雷》的官方Github库，PDF文件已上传至上方代码区，和Telegram频道同步更新。点击上方“**View code**”即可查看和下载。
 
 **“马列毛主义和革命左翼大群”** 是一个设立在Telegram和Matrix服务器上的群聊，[《燎原月刊》](https://t.me/taipingtianguo/865)和[《燎原日报》](https://t.me/eventstracing/936)是其主要刊物。
 
@@ -18,6 +17,24 @@ This is a library for uploading the official publication of "Marxist-Leninist-Ma
 👉[官方YouTube频道](https://www.youtube.com/@user-mg5pp9or9g)
 
 其下属几个频道包括[马列毛主义和革命左翼**图书馆**](https://t.me/taipingtianguo)、[马列毛主义和革命左翼**艺术馆**](https://t.me/leftart)、[马列毛主义和革命左翼**时事评论**](https://t.me/eventstracing)、[马列毛主义和革命左翼**国际共运**](https://t.me/statelesscommunism)、[马列毛主义和革命左翼**每日简讯**](https://t.me/voiceofmaoist)、[**图书馆仓储中心**](https://t.me/MLMismLibrary)等。
+
+## English presentation
+
+"**Spring Thunder**", a special issue of the International Communist Movement produced by Chinese Marxist-Leninist-Maoist, has been released!
+
+This is the official Github repository for Spring Thunder, a publication of the "**Marxist-Leninist-Maoist and Revolutionary Left**". The PDF file has been uploaded to the code section above and is updated in sync with the Telegram channel. Click on "**View code**" above to view and download.
+
+**The "Marxist-Leninist-Maoist and Revolutionary Left Group "** is a group chat set up on Telegram and Matrix servers, with the [Prairie Moon](https://t.me/taipingtianguo/865) and [Prairie Journal](https://t.me/eventstracing/936) are its main publications.
+
+👉 [Telegram group](https://t.me/longlivemarxleninmaoist) 
+
+👉[Martix group](https://matrix.to/#/#jinggangshan:matrix.org)
+
+👉[Prairie Monthly's official Twitter feed](https://twitter.com/liaoyuan2022)
+
+👉[Official YouTube channel](https://www.youtube.com/@user-mg5pp9or9g)
+
+Several channels under its umbrella include [Marxist-Leninist-Maoist and Revolutionary Left **Library**](https://t.me/taipingtianguo), [Marxist-Leninist-Maoist and Revolutionary Left **Art Gallery**](https://t.me/leftart), [Marxist-Leninist-Maoist and Revolutionary Left **Current Affairs Review**](https://t.me/eventstracing), [Marxist-Leninist-Maoist and Revolutionary Left **International Communist Movement**](https://t.me/statelesscommunism), [Marxist-Leninist-Maoist and Revolutionary Left **Daily Newsletter**](https://t.me/voiceofmaoist), [**Library Storage Center**](https://t.me/MLMismLibrary), etc.
 
 ## 第一期（2023年8月刊）No.1 tranche (2023.08)
 ### 封面(cover)
