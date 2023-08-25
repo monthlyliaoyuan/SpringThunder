@@ -19,6 +19,12 @@ This is a library for uploading the official publication of "Marxist-Leninist-Ma
 
 其下属几个频道包括[马列毛主义和革命左翼**图书馆**](https://t.me/taipingtianguo)、[马列毛主义和革命左翼**艺术馆**](https://t.me/leftart)、[马列毛主义和革命左翼**时事评论**](https://t.me/eventstracing)、[马列毛主义和革命左翼**国际共运**](https://t.me/statelesscommunism)、[马列毛主义和革命左翼**每日简讯**](https://t.me/voiceofmaoist)、[**图书馆仓储中心**](https://t.me/MLMismLibrary)等。
 
+## 第一期（2023年8月刊）No.1 tranche (2023.08)
+### 封面(cover)
+![image](https://github.com/monthlyliaoyuan/SpringThunder/blob/main/%E3%80%8A%E6%98%A5%E9%9B%B7%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F%EF%BC%88SpringThunder_No_1%EF%BC%89/1.png)
+### 封底(back cover)
+![image](https://github.com/monthlyliaoyuan/SpringThunder/blob/main/%E3%80%8A%E6%98%A5%E9%9B%B7%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F%EF%BC%88SpringThunder_No_1%EF%BC%89/2.png)
+
 ## 加入Martix群组的方法
 
 ### 【网页版(全平台)】
