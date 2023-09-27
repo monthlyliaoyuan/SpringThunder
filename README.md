@@ -44,6 +44,12 @@ This is the official Github repository for Spring Thunder, a publication of the 
 
 Several channels under its umbrella include [Marxist-Leninist-Maoist and Revolutionary Left **Library**](https://t.me/taipingtianguo), [Marxist-Leninist-Maoist and Revolutionary Left **Art Gallery**](https://t.me/leftart), [Marxist-Leninist-Maoist and Revolutionary Left **Current Affairs Review**](https://t.me/eventstracing), [Marxist-Leninist-Maoist and Revolutionary Left **International Communist Movement**](https://t.me/statelesscommunism), [Marxist-Leninist-Maoist and Revolutionary Left **Daily Newsletter**](https://t.me/voiceofmaoist), [**Library Storage Center**](https://t.me/MLMismLibrary), etc.
 
+## 第二期（2023年9月刊）No.2 tranche (2023.09)
+### 封面(cover)
+![image](https://github.com/monthlyliaoyuan/SpringThunder/blob/main/%E3%80%8A%E6%98%A5%E9%9B%B7%E3%80%8B%E7%AC%AC%E4%BA%8C%E6%9C%9F_%EF%BC%88SpringThunder_No_2_for_moblie%EF%BC%89/1.png)
+### 封底(back cover)
+![image](https://github.com/monthlyliaoyuan/SpringThunder/blob/main/%E3%80%8A%E6%98%A5%E9%9B%B7%E3%80%8B%E7%AC%AC%E4%BA%8C%E6%9C%9F_%EF%BC%88SpringThunder_No_2_for_moblie%EF%BC%89/2.png)
+
 ## 第一期（2023年8月刊）No.1 tranche (2023.08)
 ### 封面(cover)
 ![image](https://github.com/monthlyliaoyuan/SpringThunder/blob/main/%E3%80%8A%E6%98%A5%E9%9B%B7%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F%EF%BC%88SpringThunder_No_1%EF%BC%89/1.png)
