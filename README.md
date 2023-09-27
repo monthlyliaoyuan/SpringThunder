@@ -8,6 +8,14 @@
 
 **“马列毛主义和革命左翼大群”** 是一个设立在Telegram和Matrix服务器上的群聊，[《燎原月刊》](https://t.me/taipingtianguo/865)和[《燎原日报》](https://t.me/eventstracing/936)是其主要刊物。
 
+[![YouTube](https://img.shields.io/badge/Youtube-传火的少年(@chuanhuodeshaonian)-red.svg)](https://www.youtube.com/@chuanhuodeshaonian)
+[![Twitter/X](https://img.shields.io/badge/Twitter-燎原(liaoyuan2022)-blue.svg)](https://twitter.com/liaoyuan2022)
+
+[![Telegram群组](https://img.shields.io/badge/Telegram群组-马列毛主义和革命左翼大群(MLMRL)-orange.svg)](https://t.me/longlivemarxleninmaoist)
+[![Martix群组](https://img.shields.io/badge/Martix群组-井冈山-green.svg)](https://matrix.to/#/#jinggangshan:matrix.org)
+
+[![Odysee/LBRY](https://img.shields.io/badge/Odysee/LBRY-传火的少年(@maliemaocommunist)-blue.svg)](https://odysee.com/@maliemaocommunist:1)
+
 👉[Telegram群组](https://t.me/longlivemarxleninmaoist) 
 
 👉[Martix群组](https://matrix.to/#/#jinggangshan:matrix.org)
